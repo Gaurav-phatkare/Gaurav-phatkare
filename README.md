@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently pursuing B.E. degree in **Information Technology**
 
-- 👀 I’m interested in **Machine Learning,Data Analyst**
-
 - 📫 How to reach me - **https://www.linkedin.com/in/gaurav-phatkare-639666217**
 
 <h3 align="left">Connect with me:</h3>
