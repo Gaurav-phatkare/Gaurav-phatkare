@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently pursuing B.E. degree in **Information Technology**
 
-- 📫 How to reach me - **https://www.linkedin.com/in/gaurav-phatkare-639666217**
+- 📫 How to reach me - **gauravphatkare209@gmail.com**
+-  LinkedIn - **https://www.linkedin.com/in/gaurav-phatkare-639666217**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
