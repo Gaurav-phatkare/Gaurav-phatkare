@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing B.E. degree in **Information Technology**
 
-- 📫 How to reach me - **gauravphatkare209@gmail.com**
+- 📫 How to reach me - [Gauravphatkare209@gmail.com](mailto:gauravphatkare209@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 -  LinkedIn - **https://www.linkedin.com/in/gaurav-phatkare-639666217**
 
 <h3 align="left">Connect with me:</h3>
